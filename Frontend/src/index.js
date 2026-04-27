@@ -1,16 +1,6 @@
-import axios from 'axios';
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App';
 
-function App() {
-  const checkBackend = async () => {
-    // This connects to YOUR server
-    const response = await axios.get('http://localhost:5001/');
-    alert(response.data); 
-  };
-
-  return (
-    <div>
-      <h1>LawSync Frontend</h1>
-      <button onClick={checkBackend}>Test Connection</button>
-    </div>
-  );
-}
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
