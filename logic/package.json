@@ -1,0 +1,13 @@
+{
+  "name": "lawsync-logic",
+  "version": "1.0.0",
+  "description": "Forensic document analysis logic for legal documents with risk scoring",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["legal", "forensic", "analysis", "risk-scoring"],
+  "author": "Your Name",
+  "license": "MIT"
+}
