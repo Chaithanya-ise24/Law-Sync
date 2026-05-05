@@ -5,7 +5,11 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-app.use(cors());
+app.use(cors({
+    origin: 'https://law-sync.vercel.app', 
+    methods: ['GET', 'POST'],
+    credentials: true
+}));
 app.use(express.json());
 
 // 1. Ensure the 'uploads' directory exists
