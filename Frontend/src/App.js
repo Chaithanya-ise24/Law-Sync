@@ -21,7 +21,7 @@ function App() {
     formData.append('document', file);
 
     try {
-      const response = await axios.post(`${API_URL}/upload`, formData, {
+      const response = await axios.post(`"https://law-sync-1.onrender.com/upload"`, formData, {
         headers: { 'Content-Type': 'multipart/form-data' },
         timeout: 60000,
       });
