@@ -1,0 +1,19 @@
+CONFIDENTIAL SETTLEMENT AGREEMENT
+This Settlement Agreement (the "Agreement") is made and entered into as of April 26, 2026,
+by and between:
+Party A: John Smith (hereinafter "Claimant")
+Party B: XYZ Corporation (hereinafter "Company")
+WHEREAS, Claimant has asserted certain claims against the Company; and
+WHEREAS, the Company denies any liability whatsoever; and
+WHEREAS, the parties wish to resolve all disputes between them.
+NOW, THEREFORE, in consideration of the mutual promises contained herein, the parties
+agree as follows:
+1. The Company shall pay Claimant the sum of $50,000 within 30 days.
+2. Claimant hereby releases the Company from all claims, demands, and causes of action.
+3. This Agreement is confidential and shall not be disclosed to third parties.
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written
+above.
+Signed: __________________
+John Smith, Claimant
+Signed: __________________
+Jane Doe, CEO, XYZ Corporation
